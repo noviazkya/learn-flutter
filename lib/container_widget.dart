@@ -11,7 +11,7 @@ import 'package:flutter/material.dart';
         margin: EdgeInsets.all(10),
         padding: EdgeInsets.all(10),
         decoration: BoxDecoration(
-          color: Colors.blueAccent,
+          color: Colors.deepPurpleAccent,
           borderRadius: BorderRadius.circular(10)
         ),
         child: Layerkedua()
@@ -50,7 +50,7 @@ import 'package:flutter/material.dart';
         margin: EdgeInsets.all(10),
         padding: EdgeInsets.all(10),
         decoration: BoxDecoration(
-          color: Colors.red,
+          color: Colors.purpleAccent,
           borderRadius: BorderRadius.circular(10)
         ),
         child: Layerkeempat()
